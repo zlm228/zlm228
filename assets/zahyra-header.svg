@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Zahyra Otero</title>
+  <desc id="desc">An elegant animated introduction for Zahyra Otero, building where data, product, and creativity meet.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf7"/><stop offset=".52" stop-color="#f8e9ed"/><stop offset="1" stop-color="#eee8f7"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#493840"/><stop offset=".55" stop-color="#9a6175"/><stop offset="1" stop-color="#6f607f"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="7" stdDeviation="12" flood-color="#8a6270" flood-opacity=".14"/></filter>
+    <clipPath id="reveal"><rect x="0" y="0" width="0" height="360"><animate attributeName="width" values="0;1200;1200" keyTimes="0;.72;1" dur="2.4s" fill="freeze" calcMode="spline" keySplines=".22 1 .36 1;.22 1 .36 1"/></rect></clipPath>
+  </defs>
+  <rect x="6" y="6" width="1188" height="348" rx="34" fill="url(#canvas)" stroke="#d9bac4" stroke-width="2" filter="url(#shadow)"/>
+  <path d="M76 76h160M964 284h160" stroke="#c99baa" stroke-width="2" opacity=".7"/>
+  <circle cx="76" cy="76" r="4" fill="#9a6175"/><circle cx="1124" cy="284" r="4" fill="#786887"/>
+  <g fill="#a46c7f" opacity="0"><path d="M1012 67l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/><animate attributeName="opacity" values="0;.9;.35;.9" keyTimes="0;.3;.66;1" dur="3.6s" repeatCount="indefinite"/></g>
+  <g fill="#786887" opacity="0"><path d="M171 257l3.5 9 9 3.5-9 3.5-3.5 9-3.5-9-9-3.5 9-3.5z"/><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></g>
+  <g text-anchor="middle" clip-path="url(#reveal)">
+    <text x="600" y="129" fill="#7d5966" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" letter-spacing="6">HELLO, I'M</text>
+    <text x="600" y="211" fill="url(#ink)" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-style="italic">Zahyra Otero</text>
+    <path d="M388 228c115 18 310 15 426-3" fill="none" stroke="#b67b8f" stroke-width="3" stroke-linecap="round" stroke-dasharray="440" stroke-dashoffset="440"><animate attributeName="stroke-dashoffset" from="440" to="0" dur="1.4s" begin="1s" fill="freeze"/></path>
+    <text x="600" y="278" fill="#5d5056" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2.2">DATA  ·  PRODUCT  ·  THOUGHTFUL TECHNOLOGY</text>
+  </g>
+</svg>
