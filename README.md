@@ -48,11 +48,9 @@ Outside of coding, I love beauty and skincare, exploring NYC, and finding cute c
 ---
 
 <div align="center">
-  <h3>Let’s make something useful and lovely.</h3>
-  <p>Open to learning, collaborating, and building thoughtful things.</p>
+  <h3>Let’s connect!</h3>
+  <p>I’m always happy to chat about projects, ideas, or new opportunities.</p>
   <a href="https://www.linkedin.com/in/zahyra-otero/"><img src="https://img.shields.io/badge/LinkedIn-let's_connect-D9A6B5?style=flat-square&logo=linkedin&logoColor=3D3035" alt="Connect with Zahyra on LinkedIn" /></a>
   <a href="mailto:zlm228@nyu.edu"><img src="https://img.shields.io/badge/Email-zlm228%40nyu.edu-F2E4E8?style=flat-square&logo=gmail&logoColor=3D3035" alt="Email Zahyra" /></a>
   <a href="https://github.com/zlm228"><img src="https://img.shields.io/badge/GitHub-zlm228-EEE8F7?style=flat-square&logo=github&logoColor=3D3035" alt="Zahyra's GitHub profile" /></a>
-  <br /><br />
-  <sub>designed with intention, curiosity & a little sparkle ✦</sub>
 </div>
