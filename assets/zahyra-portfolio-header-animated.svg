@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Zahyra Otero</title>
+  <desc id="desc">Zahyra Otero. Data, product, and thoughtful technology.</desc>
+
+  <defs>
+    <radialGradient id="blush" cx="76%" cy="28%" r="76%">
+      <stop offset="0" stop-color="#f6dce3" stop-opacity=".82"/>
+      <stop offset=".48" stop-color="#fbefef" stop-opacity=".52"/>
+      <stop offset="1" stop-color="#fbf7f4" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbf8f5"/>
+      <stop offset="1" stop-color="#fcf3f4"/>
+    </linearGradient>
+    <clipPath id="name-reveal">
+      <rect x="150" y="120" width="0" height="155">
+        <animate attributeName="width" values="0;900;900" keyTimes="0;.8;1" dur="2s" fill="freeze" calcMode="spline" keySplines=".22 1 .36 1;.22 1 .36 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#background)"/>
+  <rect width="1200" height="420" fill="url(#blush)"/>
+
+  <g fill="#e8b4c0">
+    <path d="M88 154c8 0 14-6 14-14 0 8 6 14 14 14-8 0-14 6-14 14 0-8-6-14-14-14z">
+      <animate attributeName="opacity" values=".25;1;.25" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1082 300c6 0 11-5 11-11 0 6 5 11 11 11-6 0-11 5-11 11 0-6-5-11-11-11z">
+      <animate attributeName="opacity" values="1;.3;1" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g text-anchor="middle">
+    <text x="600" y="91" fill="#7a5c62" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="500" letter-spacing="8" opacity="0">
+      HELLO, I'M
+      <animate attributeName="opacity" from="0" to="1" dur=".7s" fill="freeze"/>
+    </text>
+    <text x="600" y="252" fill="#2d2425" font-family="Didot, 'Bodoni 72', Baskerville, Georgia, serif" font-size="132" font-style="italic" font-weight="400" letter-spacing="-5" clip-path="url(#name-reveal)">Zahyra Otero</text>
+    <text x="600" y="318" fill="#7a5c62" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="500" letter-spacing="4.5">
+      DATA  ·  PRODUCT  ·  THOUGHTFUL TECHNOLOGY
+      <animate attributeName="opacity" values="0;0;1" keyTimes="0;.62;1" dur="2.1s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
