@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/zahyra-header.svg" alt="Zahyra Otero: data, product, and thoughtful technology" width="100%" />
+  <img src="./assets/zahyra-portfolio-header.svg" alt="Zahyra Otero: data, product, and thoughtful technology" width="100%" />
 </div>
 
 <p align="center"><b>NYU · Data Science Major · Business Studies Minor · Class of 2028</b></p>
